@@ -1,23 +1,28 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:6a3093,100:a044ff&height=220&section=header&text=Lakshya%20Pal&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20Python%20%C2%B7%20ML%20%C2%B7%20Analytics&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Lakshya%20Pal&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20%26%20Analytics%20Engineer&descAlignY=58&descSize=20" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=A044FF&center=true&vCenter=true&width=600&lines=Turning+messy+data+into+decisions;Python+%7C+SQL+%7C+Pandas+%7C+Scikit-learn;Building+ML+%2B+NLP+pipelines;B.Tech+CS+%40+ADGITM+(2024+-+2028)" alt="Typing SVG" />
+<a href="https://github.com/Lakshya312">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+decisions;Python+%7C+SQL+%7C+Pandas+%7C+Scikit-learn;Strong+in+classical+ML%2C+now+into+Deep+Learning;Currently+exploring+neural+networks+%26+LLM+fine-tuning" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Academic](https://img.shields.io/badge/B.Tech-Computer%20Science-6a3093?style=for-the-badge&logo=googlescholar&logoColor=white)
-![Location](https://img.shields.io/badge/Location-Delhi,%20India-6a3093?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Education](https://img.shields.io/badge/B.Tech-Computer%20Science-6A0DAD?style=for-the-badge&logo=googlescholar&logoColor=white)
+![Location](https://img.shields.io/badge/Location-Delhi,%20India-4B0082?style=for-the-badge&logo=googlemaps&logoColor=white)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-a044ff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshya-p-34496a15a/)
-[![Email](https://img.shields.io/badge/Email-Contact-a044ff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pallakshya077@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-a044ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lakshya312)
-[![X](https://img.shields.io/badge/X-Follow-a044ff?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Lakshya58177050)
+<br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Lakshya312&color=6a3093&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/Lakshya312?style=for-the-badge&color=6a3093&labelColor=1a1a2e)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshya-p-34496a15a/)
+[![Email](https://img.shields.io/badge/Email-Contact-9370DB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pallakshya077@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-6A0DAD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lakshya312)
+[![X](https://img.shields.io/badge/X-Follow-7B2FF7?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Lakshya58177050)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Lakshya312&color=6A0DAD&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/Lakshya312?style=for-the-badge&color=8A2BE2&labelColor=1a1a1a)
+![Stars](https://img.shields.io/github/stars/Lakshya312?style=for-the-badge&color=9370DB&labelColor=1a1a1a)
 
 </div>
 
@@ -47,29 +52,45 @@ Open To:         Data Scientist, Data Analyst, ML Engineer roles & internships
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css&theme=dark" />
 
-**Backend & Databases**
+**Backend, APIs & Databases**
 
 <img src="https://skillicons.dev/icons?i=django,mysql,postgres&theme=dark" />
 
 ![DRF](https://img.shields.io/badge/Django%20REST%20Framework-6A0DAD?style=flat-square&logo=django&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-7B2FF7?style=flat-square&logo=fastapi&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/MS%20SQL%20Server-4B0082?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Relational Modeling](https://img.shields.io/badge/Relational%20Modeling-8A2BE2?style=flat-square&logo=databricks&logoColor=white)
 
-**Data & ML Tooling**
+**Data Science & Machine Learning**
 
 ![Pandas](https://img.shields.io/badge/Pandas-7B2FF7?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-8A2BE2?style=flat-square&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-6A0DAD?style=flat-square&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-9370DB?style=flat-square&logo=plotly&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-4B0082?style=flat-square&logo=powerbi&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-4B0082?style=flat-square&logo=brainly&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning%20(Foundational)-9370DB?style=flat-square&logo=tensorflow&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP%20(Foundational)-7B2FF7?style=flat-square&logo=openai&logoColor=white)
+![EDA](https://img.shields.io/badge/EDA-8A2BE2?style=flat-square&logo=readthedocs&logoColor=white)
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-6A0DAD?style=flat-square&logo=databricks&logoColor=white)
+![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-4B0082?style=flat-square&logo=scikitlearn&logoColor=white)
+![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-9370DB?style=flat-square&logo=numpy&logoColor=white)
+![Fraud Detection Research](https://img.shields.io/badge/Fraud%20Detection%20Research-7B2FF7?style=flat-square&logo=protonvpn&logoColor=white)
 
-**Tooling & Platforms**
+**Visualization & Reporting**
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-8A2BE2?style=flat-square&logo=plotly&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-6A0DAD?style=flat-square&logo=powerbi&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-4B0082?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-9370DB?style=flat-square&logo=canva&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-7B2FF7?style=flat-square&logo=microsoftpowerpoint&logoColor=white)
+
+**Tools, Platforms & Fundamentals**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 
-![Canva](https://img.shields.io/badge/Canva-7B2FF7?style=flat-square&logo=canva&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-6A0DAD?style=flat-square&logo=microsoftexcel&logoColor=white)
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-8A2BE2?style=flat-square&logo=leetcode&logoColor=white)
+![Advanced Analytics](https://img.shields.io/badge/Advanced%20Analytics-6A0DAD?style=flat-square&logo=googleanalytics&logoColor=white)
 
 <br/>
 
