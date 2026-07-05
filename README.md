@@ -207,7 +207,7 @@ Designed and normalized a Microsoft SQL Server schema (Leads, Products, Regions)
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Lakshya312&show_icons=true&hide_border=true&theme=radical&title_color=A78BFA&icon_color=8A2BE2&text_color=c9c9c9&bg_color=0d0d0d" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshya312&layout=compact&hide_border=true&theme=radical&title_color=A78BFA&text_color=c9c9c9&bg_color=0d0d0d" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lakshya312&hide_border=true&theme=radical&background=0D0D0D&ring=8A2BE2&fire=A78BFA&currStreakLabel=A78BFA" />
+<img src="https://streak-stats.demolab.com/?user=Lakshya312&hide_border=true&theme=radical&background=0D0D0D&ring=8A2BE2&fire=A78BFA&currStreakLabel=A78BFA" />
 
 </div>
 
