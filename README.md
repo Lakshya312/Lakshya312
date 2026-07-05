@@ -1,28 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Lakshya%20Pal&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20%26%20Analytics%20Engineer&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:6a3093,100:a044ff&height=220&section=header&text=Lakshya%20Pal&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20Python%20%C2%B7%20ML%20%C2%B7%20Analytics&descAlignY=58&descSize=18" width="100%"/>
 
-<a href="https://github.com/Lakshya312">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+decisions;Python+%7C+SQL+%7C+Pandas+%7C+Scikit-learn;Strong+in+classical+ML%2C+now+into+Deep+Learning;Currently+exploring+neural+networks+%26+LLM+fine-tuning" alt="Typing SVG" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=A044FF&center=true&vCenter=true&width=600&lines=Turning+messy+data+into+decisions;Python+%7C+SQL+%7C+Pandas+%7C+Scikit-learn;Building+ML+%2B+NLP+pipelines;B.Tech+CS+%40+ADGITM+(2024+-+2028)" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Education](https://img.shields.io/badge/B.Tech-Computer%20Science-6A0DAD?style=for-the-badge&logo=googlescholar&logoColor=white)
-![Location](https://img.shields.io/badge/Location-Delhi,%20India-4B0082?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Academic](https://img.shields.io/badge/B.Tech-Computer%20Science-6a3093?style=for-the-badge&logo=googlescholar&logoColor=white)
+![Location](https://img.shields.io/badge/Location-Delhi,%20India-6a3093?style=for-the-badge&logo=googlemaps&logoColor=white)
 
-<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-a044ff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshya-p-34496a15a/)
+[![Email](https://img.shields.io/badge/Email-Contact-a044ff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pallakshya077@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-a044ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lakshya312)
+[![X](https://img.shields.io/badge/X-Follow-a044ff?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Lakshya58177050)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshya-p-34496a15a/)
-[![Email](https://img.shields.io/badge/Email-Contact-9370DB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pallakshya077@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-6A0DAD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lakshya312)
-[![X](https://img.shields.io/badge/X-Follow-7B2FF7?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Lakshya58177050)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Lakshya312&color=6A0DAD&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/Lakshya312?style=for-the-badge&color=8A2BE2&labelColor=1a1a1a)
-![Stars](https://img.shields.io/github/stars/Lakshya312?style=for-the-badge&color=9370DB&labelColor=1a1a1a)
+![Profile Views](https://komarev.com/ghpvc/?username=Lakshya312&color=6a3093&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/Lakshya312?style=for-the-badge&color=6a3093&labelColor=1a1a2e)
 
 </div>
 
