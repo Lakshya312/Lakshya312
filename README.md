@@ -50,6 +50,15 @@ Open To:         Data Scientist, Data Analyst, ML Engineer roles & internships
 
 ## 🟣 Tech Stack
 
+**Primary Skills** *(animated)*
+
+<img src="https://www.readmecodegen.com/api/social-icon?name=python&animation=pulse&size=48" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=pandas&animation=glow&size=48" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=scikitlearn&animation=pulse&size=48" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=django&animation=bounce&size=48" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=mysql&animation=glow&size=48" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=git&animation=bounce&size=48" />
+
 **Languages**
 
 <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css&theme=dark" />
@@ -231,6 +240,18 @@ Designed and normalized a Microsoft SQL Server schema (Leads, Products, Regions)
 
 ---
 
+## 🟣 Live Metrics Dashboard
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Lakshya312/Lakshya312/main/metrics.svg" width="100%"/>
+
+</div>
+
+<br/>
+
+---
+
 ## 🟣 GitHub Trophies
 
 <div align="center">
@@ -248,6 +269,22 @@ Designed and normalized a Microsoft SQL Server schema (Leads, Products, Regions)
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lakshya312&theme=react-dark&hide_border=true&color=A78BFA&line=8A2BE2&point=ffffff&area=true&area_color=6A0DAD" width="100%"/>
+
+</div>
+
+<br/>
+
+---
+
+## 🟣 3D Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lakshya312/Lakshya312/output-3d-contrib/night.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lakshya312/Lakshya312/output-3d-contrib/day.svg" />
+  <img alt="3D contribution graph" src="https://raw.githubusercontent.com/Lakshya312/Lakshya312/output-3d-contrib/day.svg" width="100%"/>
+</picture>
 
 </div>
 
