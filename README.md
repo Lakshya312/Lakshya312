@@ -50,58 +50,108 @@ Open To:         Data Scientist, Data Analyst, ML Engineer roles & internships
 
 ## 🟣 Tech Stack
 
-**Primary Skills** *(animated)*
+## ⚡ Core Technologies
 
-<img src="https://www.readmecodegen.com/api/social-icon?name=python&animation=pulse&size=48" />
-<img src="https://www.readmecodegen.com/api/social-icon?name=pandas&animation=glow&size=48" />
-<img src="https://www.readmecodegen.com/api/social-icon?name=scikitlearn&animation=pulse&size=48" />
-<img src="https://www.readmecodegen.com/api/social-icon?name=django&animation=bounce&size=48" />
-<img src="https://www.readmecodegen.com/api/social-icon?name=mysql&animation=glow&size=48" />
-<img src="https://www.readmecodegen.com/api/social-icon?name=git&animation=bounce&size=48" />
+<p align="center">
+  <img src="https://www.readmecodegen.com/api/social-icon?name=python&animation=pulse&size=54" />
+  <img src="https://www.readmecodegen.com/api/social-icon?name=pandas&animation=glow&size=54" />
+  <img src="https://www.readmecodegen.com/api/social-icon?name=scikitlearn&animation=pulse&size=54" />
+  <img src="https://www.readmecodegen.com/api/social-icon?name=django&animation=bounce&size=54" />
+  <img src="https://www.readmecodegen.com/api/social-icon?name=mysql&animation=glow&size=54" />
+  <img src="https://www.readmecodegen.com/api/social-icon?name=git&animation=bounce&size=54" />
+</p>
 
-**Languages**
+---
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css&theme=dark" />
+## 💻 Languages
 
-**Backend, APIs & Databases**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css&theme=dark" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=django,mysql,postgres&theme=dark" />
+---
 
-![DRF](https://img.shields.io/badge/Django%20REST%20Framework-6A0DAD?style=flat-square&logo=django&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-7B2FF7?style=flat-square&logo=fastapi&logoColor=white)
-![MSSQL](https://img.shields.io/badge/MS%20SQL%20Server-4B0082?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Relational Modeling](https://img.shields.io/badge/Relational%20Modeling-8A2BE2?style=flat-square&logo=databricks&logoColor=white)
+## ⚙️ Backend • APIs • Databases
 
-**Data Science & Machine Learning**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=django,mysql,postgres,git,github,vscode&theme=dark" />
+</p>
 
-![Pandas](https://img.shields.io/badge/Pandas-7B2FF7?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-8A2BE2?style=flat-square&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-6A0DAD?style=flat-square&logo=scikit-learn&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-4B0082?style=flat-square&logo=brainly&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning%20(Foundational)-9370DB?style=flat-square&logo=tensorflow&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP%20(Foundational)-7B2FF7?style=flat-square&logo=openai&logoColor=white)
-![EDA](https://img.shields.io/badge/EDA-8A2BE2?style=flat-square&logo=readthedocs&logoColor=white)
-![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-6A0DAD?style=flat-square&logo=databricks&logoColor=white)
-![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-4B0082?style=flat-square&logo=scikitlearn&logoColor=white)
-![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-9370DB?style=flat-square&logo=numpy&logoColor=white)
-![Fraud Detection Research](https://img.shields.io/badge/Fraud%20Detection%20Research-7B2FF7?style=flat-square&logo=protonvpn&logoColor=white)
+<p align="center">
 
-**Visualization & Reporting**
+![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-6A0DAD?style=for-the-badge&logo=django&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-7B2FF7?style=for-the-badge&logo=fastapi&logoColor=white)
+![MS SQL Server](https://img.shields.io/badge/MS_SQL_Server-8A2BE2?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Relational Modeling](https://img.shields.io/badge/Relational_Modeling-6A0DAD?style=for-the-badge)
 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-8A2BE2?style=flat-square&logo=plotly&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-6A0DAD?style=flat-square&logo=powerbi&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-4B0082?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-9370DB?style=flat-square&logo=canva&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/PowerPoint-7B2FF7?style=flat-square&logo=microsoftpowerpoint&logoColor=white)
+</p>
 
-**Tools, Platforms & Fundamentals**
+---
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+## 🤖 Data Science • Machine Learning
 
-![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-8A2BE2?style=flat-square&logo=leetcode&logoColor=white)
-![Advanced Analytics](https://img.shields.io/badge/Advanced%20Analytics-6A0DAD?style=flat-square&logo=googleanalytics&logoColor=white)
+<p align="center">
 
-<br/>
+![Pandas](https://img.shields.io/badge/Pandas-6A0DAD?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-7B2FF7?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-8A2BE2?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-6A0DAD?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-7B2FF7?style=for-the-badge)
+![Natural Language Processing](https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge)
+![Exploratory Data Analysis](https://img.shields.io/badge/EDA-6A0DAD?style=for-the-badge)
+![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-7B2FF7?style=for-the-badge)
+![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-8A2BE2?style=for-the-badge)
+![Fraud Detection](https://img.shields.io/badge/Fraud_Detection-6A0DAD?style=for-the-badge)
+
+</p>
+
+---
+
+## 📊 Visualization & Analytics
+
+<p align="center">
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-6A0DAD?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power_BI-7B2FF7?style=for-the-badge&logo=powerbi&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-8A2BE2?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-6A0DAD?style=for-the-badge&logo=canva&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-7B2FF7?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
+
+</p>
+
+---
+
+## 🛠️ Tools & Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,jupyter&theme=dark" />
+</p>
+
+---
+
+## 📚 Computer Science Fundamentals
+
+<p align="center">
+
+![Data Structures](https://img.shields.io/badge/Data_Structures-6A0DAD?style=for-the-badge)
+![Algorithms](https://img.shields.io/badge/Algorithms-7B2FF7?style=for-the-badge)
+![Object Oriented Programming](https://img.shields.io/badge/OOP-8A2BE2?style=for-the-badge)
+![DBMS](https://img.shields.io/badge/DBMS-6A0DAD?style=for-the-badge)
+![Operating Systems](https://img.shields.io/badge/Operating_Systems-7B2FF7?style=for-the-badge)
+![Computer Networks](https://img.shields.io/badge/Computer_Networks-8A2BE2?style=for-the-badge)
+![Git Version Control](https://img.shields.io/badge/Git_Version_Control-6A0DAD?style=for-the-badge)
+
+</p>
+
+---
+
+<div align="center">
+
+### 🚀 Always Learning • Always Building
+
+*"Turning ideas into scalable software and intelligent data-driven solutions."*
+
+</div>
 
 ---
 
