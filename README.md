@@ -283,18 +283,6 @@ Designed and normalized a Microsoft SQL Server schema (Leads, Products, Regions)
 
 ---
 
-## 🟣 Live Metrics Dashboard
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Lakshya312/Lakshya312/main/metrics.svg" width="100%"/>
-
-</div>
-
-<br/>
-
----
-
 ## 🟣 GitHub Trophies
 
 <div align="center">
