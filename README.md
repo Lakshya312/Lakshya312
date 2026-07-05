@@ -47,13 +47,14 @@ Open To:         Data Scientist, Data Analyst, ML Engineer roles & internships
 ## 🟣 Tech Stack
 
 **Primary Skills** *(animated)*
-
+<p>
 <img src="https://www.readmecodegen.com/api/social-icon?name=python&animation=pulse&size=48" />
 <img src="https://www.readmecodegen.com/api/social-icon?name=pandas&animation=glow&size=48" />
 <img src="https://www.readmecodegen.com/api/social-icon?name=scikitlearn&animation=pulse&size=48" />
 <img src="https://www.readmecodegen.com/api/social-icon?name=django&animation=bounce&size=48" />
 <img src="https://www.readmecodegen.com/api/social-icon?name=mysql&animation=glow&size=48" />
 <img src="https://www.readmecodegen.com/api/social-icon?name=git&animation=bounce&size=48" />
+</p>
 
 **Languages**
 
