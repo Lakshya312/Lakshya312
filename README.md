@@ -43,25 +43,8 @@ Also Comfortable With: Django · DRF · Power BI
 Currently Building Into: Deep Learning fundamentals, NLP
 Open To:         Data Scientist, Data Analyst, ML Engineer roles & internships
 ```
-
-<br/>
-
 ---
-
 ## 🟣 Tech Stack
-
-## ⚡ Core Technologies
-
-<p align="center">
-  <img src="https://www.readmecodegen.com/api/social-icon?name=python&animation=pulse&size=54" />
-  <img src="https://www.readmecodegen.com/api/social-icon?name=pandas&animation=glow&size=54" />
-  <img src="https://www.readmecodegen.com/api/social-icon?name=scikitlearn&animation=pulse&size=54" />
-  <img src="https://www.readmecodegen.com/api/social-icon?name=django&animation=bounce&size=54" />
-  <img src="https://www.readmecodegen.com/api/social-icon?name=mysql&animation=glow&size=54" />
-  <img src="https://www.readmecodegen.com/api/social-icon?name=git&animation=bounce&size=54" />
-</p>
-
----
 
 ## 💻 Languages
 
@@ -272,8 +255,8 @@ Designed and normalized a Microsoft SQL Server schema (Leads, Products, Regions)
 
 <div align="center">
 
-<img height="165" src="https://my-repository-five-lemon.vercel.app/api?username=Lakshya312&show_icons=true&hide_border=true&theme=radical&title_color=A78BFA&icon_color=8A2BE2&text_color=c9c9c9&bg_color=0d0d0d" />
-<img height="165" src="https://my-repository-five-lemon.vercel.app/api/top-langs/?username=Lakshya312&layout=compact&hide_border=true&theme=radical&title_color=A78BFA&text_color=c9c9c9&bg_color=0d0d0d" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Lakshya312&show_icons=true&hide_border=true&theme=radical&title_color=A78BFA&icon_color=8A2BE2&text_color=c9c9c9&bg_color=0d0d0d" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshya312&layout=compact&hide_border=true&theme=radical&title_color=A78BFA&text_color=c9c9c9&bg_color=0d0d0d" />
 
 <img src="https://streak-stats.demolab.com/?user=Lakshya312&hide_border=true&theme=radical&background=0D0D0D&ring=8A2BE2&fire=A78BFA&currStreakLabel=A78BFA" />
 
@@ -295,17 +278,10 @@ Designed and normalized a Microsoft SQL Server schema (Leads, Products, Regions)
 
 ---
 
-## 🟣 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lakshya312&theme=react-dark&hide_border=true&color=A78BFA&line=8A2BE2&point=ffffff&area=true&area_color=6A0DAD" width="100%"/>
-
-</div>
-
-<br/>
-
----
+<!-- 
+NOTE: The 3D Contribution Graph and Contribution Snake require GitHub Actions to run. 
+If you have the .yml files set up in your .github/workflows folder, you can delete 
+the <!-- and --> tags around this section to make them visible! 
 
 ## 🟣 3D Contribution Graph
 
@@ -334,6 +310,7 @@ Designed and normalized a Microsoft SQL Server schema (Leads, Products, Regions)
 <br/>
 
 ---
+-->
 
 ## 🟣 Current Focus
 
@@ -356,9 +333,6 @@ open_to:
   - ML Engineering internships
   - Collaborative data projects
 ```
-
-<br/>
-
 ---
 
 ## 🟣 Connect
