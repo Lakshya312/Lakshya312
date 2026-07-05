@@ -237,18 +237,6 @@ Designed and normalized a Microsoft SQL Server schema (Leads, Products, Regions)
 
 ---
 
-## 🟣 Live Metrics Dashboard
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Lakshya312/Lakshya312/main/metrics.svg" width="100%"/>
-
-</div>
-
-<br/>
-
----
-
 ## 🟣 GitHub Trophies
 
 <div align="center">
@@ -266,22 +254,6 @@ Designed and normalized a Microsoft SQL Server schema (Leads, Products, Regions)
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lakshya312&theme=react-dark&hide_border=true&color=A78BFA&line=8A2BE2&point=ffffff&area=true&area_color=6A0DAD" width="100%"/>
-
-</div>
-
-<br/>
-
----
-
-## 🟣 3D Contribution Graph
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lakshya312/Lakshya312/output-3d-contrib/night.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lakshya312/Lakshya312/output-3d-contrib/day.svg" />
-  <img alt="3D contribution graph" src="https://raw.githubusercontent.com/Lakshya312/Lakshya312/output-3d-contrib/day.svg" width="100%"/>
-</picture>
 
 </div>
 
