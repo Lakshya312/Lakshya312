@@ -241,7 +241,9 @@ Designed and normalized a Microsoft SQL Server schema (Leads, Products, Regions)
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Lakshya312&theme=radical&no-frame=true&margin-w=15&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=Lakshya312&theme=radical&no-frame=true&margin-w=15&column=7&v=1" alt="GitHub Trophies" />
+</a>
 
 </div>
 
