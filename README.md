@@ -140,18 +140,11 @@ Open To:         Data Scientist, Data Analyst, ML Engineer roles & internships
 ![Operating Systems](https://img.shields.io/badge/Operating_Systems-7B2FF7?style=for-the-badge)
 ![Computer Networks](https://img.shields.io/badge/Computer_Networks-8A2BE2?style=for-the-badge)
 ![Git Version Control](https://img.shields.io/badge/Git_Version_Control-6A0DAD?style=for-the-badge)
+![Probability](https://img.shields.io/badge/Probability-6A0DAD?style=for-the-badge)
+![Statistics](https://img.shields.io/badge/Statistics-7B2FF7?style=for-the-badge)
+![Linear Programming](https://img.shields.io/badge/Linear_Programming-8A2BE2?style=for-the-badge)
 
 </p>
-
----
-
-<div align="center">
-
-### 🚀 Always Learning • Always Building
-
-*"Turning ideas into scalable software and intelligent data-driven solutions."*
-
-</div>
 
 ---
 
