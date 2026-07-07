@@ -171,12 +171,10 @@ Understanding how market sentiment (Fear vs. Greed) affects trader performance o
 
 </details>
 
-<br/>
-
 <details>
 <summary><b>🔹 Accredian — Instructor-Effectiveness-Analysis</b></summary>
 <br/>
-
+  
 Evaluating instructor quality in an EdTech environment was challenging due to diverse metrics like student engagement, quiz scores, and feedback. Developed a predictive machine learning model to categorize instructors into effectiveness tiers, enabling data-driven decisions for professional development and performance-based rewards.
 
 | Stack | Scale | Performance | Data Integrity | Impact | Repository |
@@ -184,7 +182,6 @@ Evaluating instructor quality in an EdTech environment was challenging due to di
 | Python, Scikit-Learn | Batch data processing | 92% Classification Accuracy | Multi-stage outlier & correlation handling | Optimized instructor evaluation strategy | [View Repo](https://github.com/Lakshya312/Instructor-Effectiveness-Analysis) |
 
 </details>
-
 <br/>
 
 ---
